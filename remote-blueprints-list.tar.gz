@@ -1,0 +1,735 @@
+{
+    "baremetal-neorv32-de2115-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "baremetal-neorv32-de2115",
+        "Version": "1.0.0",
+        "Summary": "The baremetal example of the NEORV32 RISC-V Processor on Terrasic DE2-115 board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The baremetal example of the NEORV32 RISC-V Processor on Terrasic DE2-115 board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-de2115-neorv32",
+            "riscv-xplor-elf"
+        ],
+        "Size": "37.34 MB"
+    },
+    "baremetal-vexriscv-agilex-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "baremetal-vexriscv-agilex",
+        "Version": "1.0.0",
+        "Summary": "The baremetal example of the Vexriscv RISC-V Processor on Intel Agilex board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The baremetal example of the Vexriscv RISC-V Processor on Intel Agilex board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-agilex-vexriscv",
+            "riscv-xplor-elf"
+        ],
+        "Size": "36.78 MB"
+    },
+    "baremetal-vexriscv-c10gx-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "baremetal-vexriscv-c10gx",
+        "Version": "1.0.0",
+        "Summary": "The baremetal example of the Vexriscv RISC-V Processor on Intel Cyclone 10 GX board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The baremetal example of the Vexriscv RISC-V Processor on Intel Cyclone 10 GX board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-c10gx-vexriscv",
+            "riscv-xplor-elf"
+        ],
+        "Size": "37.29 MB"
+    },
+    "baremetal-vexriscv-s10gx-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "baremetal-vexriscv-s10gx",
+        "Version": "1.0.0",
+        "Summary": "The baremetal example of the Vexriscv RISC-V Processor on Intel Stratix 10 GX board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The baremetal example of the Vexriscv RISC-V Processor on Intel Stratix 10 GX board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-c10gx-vexriscv",
+            "riscv-xplor-elf"
+        ],
+        "Size": "37.05 MB"
+    },
+    "freertos-neorv32-agilex-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "freertos-neorv32-agilex",
+        "Version": "1.0.0",
+        "Summary": "The FreeRTOS example of the NEORV32 RISC-V Processor on Intel Agilex board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The FreeRTOS example of the NEORV32 RISC-V Processor on Intel Agilex board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-agilex-neorv32",
+            "riscv-xplor-elf"
+        ],
+        "Size": "0.41 MB"
+    },
+    "linux-vexriscv-de2115-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "linux-vexriscv-de2115",
+        "Version": "1.0.0",
+        "Summary": "The Linux example of the Vexriscv RISC-V Processor on Terrasic DE2-115 board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The Linux example of the Vexriscv RISC-V Processor on Terrasic DE2-115 board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-de2115-vexriscv",
+            "riscv32-xplor-linux"
+        ],
+        "Size": "5.10 MB"
+    },
+    "zephyr-vexriscv-agilex-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "zephyr-vexriscv-agilex",
+        "Version": "1.0.0",
+        "Summary": "The Zephyr example of the Vexriscv RISC-V Processor on Intel Agilex board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The Zephyr example of the Vexriscv RISC-V Processor on Intel Agilex board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-agilex-vexriscv"
+        ],
+        "Size": "0.25 MB"
+    },
+    "zephyr-vexriscv-c10gx-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "zephyr-vexriscv-c10gx",
+        "Version": "1.0.0",
+        "Summary": "The Zephyr example of the Vexriscv RISC-V Processor on Intel Cyclone 10GX board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The Zephyr example of the Vexriscv RISC-V Processor on Intel Cyclone 10GX board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hardware"
+        ],
+        "Requires": [
+            "bitstream-c10gx-vexriscv"
+        ],
+        "Size": "0.25 MB"
+    },
+    "openocd-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "openocd",
+        "Version": "1.0.0",
+        "Summary": "Open On-Chip Debugger",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "OpenOCD aims to provide debugging, in-system programming and boundary-scan testing for embedded target devices",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [],
+        "Size": "7.68 MB"
+    },
+    "qemu-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "qemu",
+        "Version": "1.0.0",
+        "Summary": "QEMU for RISC-V",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "QEMU for running and debugging RISC-V applications (Baremetal, FreeRTOS, ZephyrRTOS, Embedded Linux)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software",
+            "Platform"
+        ],
+        "Requires": [],
+        "Size": "50.28 MB"
+    },
+    "riscv-xplor-elf-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "riscv-xplor-elf",
+        "Version": "1.0.0",
+        "Summary": "RISC-V Embedded Toolchain",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "XploR Embedded Toolchain for RISC-V (supported both 32 and 64-bit)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [],
+        "Size": "914.07 MB"
+    },
+    "riscv32-xplor-linux-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "riscv32-xplor-linux",
+        "Version": "1.0.0",
+        "Summary": "RISC-V Embedded Linux 32-bit Toolchain",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Xplor Embedded Linux toolchain for RISC-V (only support 32-bit no-float)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "rootfs"
+        ],
+        "Size": "416.33 MB"
+    },
+    "riscv32-xplord-linux-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "riscv32-xplord-linux",
+        "Version": "1.0.0",
+        "Summary": "RISC-V Embedded Linux 32-bit Toolchain (Double)",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Xplor Embedded Linux toolchain for RISC-V (only support 32-bit double) and contains LLVM Embedded Linux Toolchain (32-bit double)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "rootfs"
+        ],
+        "Size": "518.46 MB"
+    },
+    "riscv64-xplor-linux-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "riscv64-xplor-linux",
+        "Version": "1.0.0",
+        "Summary": "RISC-V Embedded Linux 64-bit Toolchain",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Xplor Embedded Linux toolchain for RISC-V (only support 64-bit no-float)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "rootfs"
+        ],
+        "Size": "415.92 MB"
+    },
+    "riscv64-xplord-linux-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "riscv64-xplord-linux",
+        "Version": "1.0.0",
+        "Summary": "RISC-V Embedded Linux 64-bit Toolchain (Double)",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Xplor Embedded Linux toolchain for RISC-V (only support 64-bit double) and contains LLVM Embedded Linux Toolchain (64-bit double)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "rootfs"
+        ],
+        "Size": "518.20 MB"
+    },
+    "rootfs-debug-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "rootfs-debug",
+        "Version": "1.0.0",
+        "Summary": "RISC-V RootFS for running/debugging Kernel and Embedded Linux applications",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "RISC-V RootFS for running/debugging Kernel and Embedded Linux applications",
+        "Platform": [
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [],
+        "Size": "826.75 MB"
+    },
+    "rootfs-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "rootfs",
+        "Version": "1.0.0",
+        "Summary": "RISC-V RootFS for running and debugging Embedded Linux applications",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "RISC-V RootFS can be booted by QEMU and can run/debug RISC-V Embedded Linux applications",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [],
+        "Size": "135.95 MB"
+    },
+    "xplor-clang-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-clang",
+        "Version": "1.0.0",
+        "Summary": "RISC-V LLVM Embedded Toolchain",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Xplor Embedded LLVM toolchain for RISC-V (support both 32 and 64-bit)",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [],
+        "Size": "734.22 MB"
+    },
+    "libraries-1.0.0": {
+        "Metadata-Version": "2.1",
+        "Name": "libraries",
+        "Version": "1.0.0",
+        "Summary": "Libraries for running and debugging LLVM Sample",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Hidden-blueprint"
+        ],
+        "Requires": [],
+        "Size": "223.41 MB"
+    },
+    "hw-agilex-neorv32-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-agilex-neorv32",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the NEORV32 RISC-V Processor on Intel Agilex board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the NEORV32 RISC-V Processor on Intel Agilex board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "1.38 MB"
+    },
+    "hw-agilex-vexriscv-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-agilex-vexriscv",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the VexRiscv RISC-V Processor on Intel Agilex board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the VexRisc RISC-V Processor on Intel Agilex board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "1.40 MB"
+    },
+    "hw-c10gx-vexriscv-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-c10gx-vexriscv",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the VexRiscv RISC-V Processor on Cyclone 10 GX board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the VexRiscv RISC-V Processor on Cyclone 10 GX board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "0.90 MB"
+    },
+    "hw-de2115-neorv32-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-de2115-neorv32",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the NEORV32 RISC-V Processor on Terrasic DE2-115 board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the NEORV32 RISC-V Processor on Terrasic DE2-115 board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "0.22 MB"
+    },
+    "hw-de2115-vexriscv-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-de2115-vexriscv",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the VexRiscv RISC-V Processor on Terrasic DE2-115 board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the VexRiscv RISC-V Processor on Terrasic DE2-115 board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "0.25 MB"
+    },
+    "hw-s10gx-neorv32-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-s10gx-neorv32",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the NEORV32 RISC-V Processor on Intel Stratix board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the NEORV32 RISC-V Processor on Intel Stratix board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "1.76 MB"
+    },
+    "hw-s10gx-vexriscv-1.0.0": {
+        "Metadata-Version": "1.1",
+        "Name": "hw-s10gx-vexriscv",
+        "Version": "1.0.0",
+        "Summary": "The bitstream of the VexRiscv RISC-V Processor on Intel Stratix board",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "The bitstream of the VexRiscv RISC-V Processor on Intel Stratix board",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Core(s) / IP(s)"
+        ],
+        "Requires": [],
+        "Size": "2.49 MB"
+    },
+    "xplor-studio-elf-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-elf",
+        "Version": "1.0.0.6110424",
+        "Summary": "ELF XploR Studio Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "ELF XploR Studio Plugin using for creating baremetal examples",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "libraries",
+            "qemu",
+            "riscv-xplor-elf"
+        ],
+        "Size": "172.78 MB"
+    },
+    "xplor-studio-freertos-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-freertos",
+        "Version": "1.0.0.6110424",
+        "Summary": "FreeRTOS XploR Studio Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "FreeRTOS XploR Studio Plugin using for creating FreeRTOS examples and supporting RTOS views",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "qemu",
+            "riscv-xplor-elf"
+        ],
+        "Size": "182.55 MB"
+    },
+    "xplor-studio-ide-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-ide",
+        "Version": "1.0.0.6110424",
+        "Summary": "XploR Studio IDE",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "XploR Studio IDE for RISC-V, ARM, MIPS,...",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [],
+        "Size": "635.00 MB"
+    },
+    "xplor-studio-kernel-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-kernel",
+        "Version": "1.0.0.6110424",
+        "Summary": "Kernel XploR Studio Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Kernel XploR Studio Plugin using for kernel debugging",
+        "Platform": [
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "qemu",
+            "riscv64-xplord-linux",
+            "rootfs-debug"
+        ],
+        "Size": "170.19 MB"
+    },
+    "xplor-studio-linux-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-linux",
+        "Version": "1.0.0.6110424",
+        "Summary": "Linux XploR Studio Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Linux XploR Studio Plugin using for creating embedded Linux examples",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "qemu",
+            "riscv64-xplord-linux",
+            "rootfs"
+        ],
+        "Size": "169.62 MB"
+    },
+    "xplor-studio-openocd-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-openocd",
+        "Version": "1.0.0.6110424",
+        "Summary": "OpenOCD XploR Studio Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "OpenOCD XploR Studio Plugin using for debugging applications on Hardware",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "openocd"
+        ],
+        "Size": "170.07 MB"
+    },
+    "xplor-studio-templates-litex-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-templates-litex",
+        "Version": "1.0.0.6110424",
+        "Summary": "Litex Template Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Template Litex Plugin using for creating baremetal examples",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "libraries",
+            "qemu",
+            "riscv-xplor-elf"
+        ],
+        "Size": "169.64 MB"
+    },
+    "xplor-studio-templates-llvm-1.0.0.6110424": {
+        "Metadata-Version": "1.1",
+        "Name": "xplor-studio-templates-llvm",
+        "Version": "1.0.0.6110424",
+        "Summary": "LLVM Template Plugin",
+        "Home-page": "http://xplor.design",
+        "Author": "SoC.One Inc.",
+        "Author-email": "info@soc.one",
+        "License": "Free",
+        "Description": "Template LLVM Plugin using for creating baremetal examples",
+        "Platform": [
+            "Windows",
+            "Linux"
+        ],
+        "Classifier": [
+            "Software"
+        ],
+        "Requires": [
+            "libraries",
+            "qemu",
+            "xplor-clang"
+        ],
+        "Size": "170.49 MB"
+    }
+}
